@@ -57,6 +57,14 @@ extension SearchController: UITableViewDelegate {
 
 ## Experience:
 
+####On these courses I wrote money manager ‘Circle of Money’.
+
+####First version of this application I wrote using storyboard, the second version completely programmatically.
+
+####I tried to write this application according to MVC architectural pattern. 
+
+####Also used ExchangeRate-API, CocoaPods, Swift Package Manager, Firebase and SnapKit.
+
 **My latest project is a clone of the Instagram app.**
 
 *The architecture - minimum viable product with elements of MVVM.*
