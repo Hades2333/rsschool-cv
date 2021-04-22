@@ -1,1 +1,0 @@
-https://hades2333.github.io/rsschool-cv/cv
