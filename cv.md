@@ -15,6 +15,8 @@
 
 *The lack of commerce experience I’m ready to compensate with colossal motivation to learning new things.*
 
+*I am currently on my last year of education at Vitebsk State University, at the Faculty of Information Technologies and Robotics.*
+
 ## Skills:
 
 * Programming languages:
